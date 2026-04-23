@@ -1,0 +1,3 @@
+With the Dell OptiPlex connected to an old monitor, I installed and configured TrueNAS as the server's operating system. 
+I set up the two 4TB hard drives in a RAID 1 configuration, meaning all data is automatically mirrored across both drives — ensuring that if one drive fails, no data is lost. 
+I then configured the Linux Mint laptop with the TrueNAS management software and linked everything together through the managed switch.
