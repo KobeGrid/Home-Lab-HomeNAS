@@ -1,4 +1,2 @@
 # Home-Lab-HomeNAS
 Built a home lab NAS using a Dell OptiPlex, managed switch, and custom Ethernet runs with TrueNAS and RAID 1 across two 4TB drives for redundancy. Also repurposed a 2010 laptop — wiped it after bypassing an unknown password and flashed Linux Mint — now serving as a dedicated management node.
-While at GCU, I designed a concept network infrastructure for a gym facility, mapping out the architecture, hardware placement, and connectivity needs from the ground up — applying classroom knowledge to a real-world scenario.
-I also have hands-on experience using Python for data analysis and visualization, applying probability and statistics to uncover relationships in data through charts and graphs. I bring both a technical and analytical mindset to everything I work on, and I'm looking for opportunities where I can grow in network administration and IT systems while contributing to a team that values curiosity and initiative.
